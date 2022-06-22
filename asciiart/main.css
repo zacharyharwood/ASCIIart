@@ -1,0 +1,20 @@
+body {
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 24 px;
+    color: limegreen;
+    background-color: black;
+
+    
+}
+
+.asciiButton {
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 24 px;
+    color: limegreen;
+    background-color: black;
+    border: none;
+}
